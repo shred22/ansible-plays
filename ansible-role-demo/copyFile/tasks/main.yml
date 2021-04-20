@@ -1,0 +1,6 @@
+---
+# tasks file for copyFile
+- name: Copy file with owner and permissions
+  copy:
+    src: ./foo.conf
+    dest: /home/osboxes/foo.conf

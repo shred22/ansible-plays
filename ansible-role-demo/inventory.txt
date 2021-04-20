@@ -1,0 +1,2 @@
+[vdi]
+centos ansible_host=192.168.29.181 ansible_user=osboxes ansible_ssh_pass=osboxes.org ansible_connection=ssh

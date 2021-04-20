@@ -1,0 +1,4 @@
+- name: run a role
+  hosts: all
+  roles:
+   - copyFile
